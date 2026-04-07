@@ -2,7 +2,6 @@
 
 **Author:** Dylan  
 **Video Walkthrough:** [▶ Watch on Loom](https://www.loom.com/share/987d874d60ad4f8a8f020ad0a57306ce)  
-**Live Demo:** [stlab01dylanbryson.z13.web.core.windows.net](https://stlab01dylanbryson.z13.web.core.windows.net/)
 
 ---
 
